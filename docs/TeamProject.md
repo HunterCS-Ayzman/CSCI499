@@ -10,7 +10,6 @@ You must invite your course instructors to both your project management board an
 Your final project must be shareable/deployable/viewable in some way. Your instructors, future employers, peers, friends, family, and customers want to see/use the fruits of your labor! But they shouldn't have to set up a whole development environment in order to do so. Not only is it important to grading, but you're making all their lives easier.
 
 ### Grading
-
 |||
 |:---|:---:|
 |Functional Requirements|50%|
