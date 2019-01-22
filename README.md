@@ -1,5 +1,15 @@
 ## CSCI 499 (Spring 2019) Course Site
 
+### Course Administration
+
+* [Syllabus](./docs/Syllabus.pdf)
+* [Schedule](./docs/Schedule.md)
+* [Grading](./docs/Grading.md)
+
+### Requirements
+* [General](./docs/General.md)
+* [Presentations](./docs/Presentations.md)
+* [Written Assignments](./docs/WrittenAssignments.md)
 
 ### Resources
 
