@@ -4,12 +4,14 @@
 
 * [Syllabus](./docs/Syllabus.pdf)
 * [Schedule](./docs/Schedule.md)
-* [Grading](./docs/Grading.md)
 
 ### Requirements
-* [General](./docs/General.md)
+* [Team Project](./docs/TeamProject.md)
 * [Presentations](./docs/Presentations.md)
 * [Written Assignments](./docs/WrittenAssignments.md)
+
+### Grading
+Please check out the [syllabus](./docs/Syllabus.pdf) for the course grade breakdown. For the particular grading rubric of each assignment, please check out the relevant section under [Requirements](#requirements).
 
 ### Resources
 
