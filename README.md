@@ -4,14 +4,13 @@
 
 * [Syllabus](/docs/Syllabus.pdf)
 * [Schedule](/docs/Schedule.md)
+* [Grading](/docs/Grading.md)
 
 ### Requirements
 * [Team Project](/docs/TeamProject.md)
 * [Presentations](/docs/Presentations.md)
 * [Written Assignments](/docs/WrittenAssignments.md)
 
-### Grading
-Please check out the [syllabus](/docs/Syllabus.pdf) for the course grade breakdown. For the particular grading rubric of each assignment, please check out the relevant section under [Requirements](#requirements).
 
 ### Code of Conduct
 If you're participating in this course, you are expected to read and abide by our [code of conduct](/CODE_OF_CONDUCT.md). Please take a few minutes out of your day to do so.

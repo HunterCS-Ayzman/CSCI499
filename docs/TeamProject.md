@@ -20,7 +20,3 @@ Your final project must be shareable/deployable/viewable in some way. Your instr
 |UI/UX; Ease of Use|15%|
 |README|10%|
 |Platform Requirements|15%|
-
-#### Invidual Grade
-
-![Individual Grade Calculation](/images/grading.png)
