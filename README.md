@@ -1,4 +1,4 @@
-## CSCI 499 (Spring 2019) Course Site
+## CSCI 499 (Spring 2019)
 
 ### Course Administration
 * [Syllabus](/docs/Syllabus.pdf)
@@ -7,9 +7,10 @@
 * [Resources](/docs/Resources.md)
 * [Code of Conduct](/CODE_OF_CONDUCT.md)
 
-### Requirements
-* [Team Project](/docs/TeamProject.md)
+### Team Project Requirements
+* [General](/docs/General.md)
 * [Presentations](/docs/Presentations.md)
 * [Written Assignments](/docs/WrittenAssignments.md)
+* [Final Project](/docs/FinalProject.md)
 
 

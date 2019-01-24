@@ -1,5 +1,5 @@
 ## Grading
-Please check out the [syllabus](/docs/Syllabus.pdf) for the team grade breakdown. For the particular grading rubric of each assignment, please check out the relevant section under [Requirements](/README.md#requirements).
+Please check out the [syllabus](/docs/Syllabus.pdf) for the team grade breakdown. For the particular grading rubric of each assignment, please check out the relevant section under [Team Project Requirements](/README.md#team-project-requirements).
 
 As the syllabus says: _"Your individual final grade is based on your team grade..., your group peers’ rating of your individual contribution, and my personal instructor discretion. If your peers believe that you adequately meet reasonable expectations, you will likely receive the team project grade, as is. Equivalently, if you do not meet expectations, you will likely receive a proportionally lower grade, and if you exceed expectations, you will likely receive a proportionally higher grade."_
 
