@@ -1,5 +1,5 @@
 ## Schedule
-You'll notice that the schedule below is quite empty. It's for you to fill! The default is that each class is dedicated time for you and your team to meet and work together. Otherwise, you can provide lecture topic suggestions and requests, invite people to speak to the class, and give tech talks. This course is about your enlightenment! Share your knowledge with your peers!
+You'll notice that the schedule below is quite empty. It's for you to fill! The default is that each class is dedicated time for you and your team to meet and work together. Otherwise, you can provide lecture topic suggestions and requests, invite people to speak to the class, and give tech talks. I will do my best to provide this on my own, but I will actually leverage each group's team lead for this! I'll be happy to serve as the connector and introducer where I can, of course. Capstone is all about your enlightenment! Share your knowledge with your peers!
 
 |Dates|Activities/Deadlines/Notes|
 |:---|---|
@@ -35,3 +35,18 @@ You'll notice that the schedule below is quite empty. It's for you to fill! The 
 |May 8th||
 |May 13th|Final Presentations; Final Writeup Deadline; Final Project Deadline|
 |May 15th|Final Presentations Continued|
+
+### Suggestions
+Some mentors we should consider bringing in:
+
+* Technical team leads
+* Recently graduated software engineers
+* Seasoned full-stack web developers
+
+Some possible lecture topics could cover:
+
+* Planning and prototyping
+* Version control and code reviews
+* Public speaking
+
+Let me know what you're interested in!
