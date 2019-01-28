@@ -1,4 +1,4 @@
-## Computer Science Capstone (CSCI 499)
+## Hunter College's CS Capstone (CSCI 499)
 
 ### Course Administration
 
