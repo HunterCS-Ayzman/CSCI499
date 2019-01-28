@@ -17,6 +17,7 @@
 
 ### Class Exercises
 
+* [Exercises???](/exercises/Exercises.md)
 * [Inspiration](/exercises/Inspiration.md)
-* [Ideation](/docs/Ideation.md)
-* [Ethics](/docs/Ethics.md)
+* [Ideation](/exercises/Ideation.md)
+* [Ethics](/exercises/Ethics.md)
