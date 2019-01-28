@@ -1,4 +1,4 @@
-## CSCI 499 (Spring 2019)
+## Computer Science Capstone (CSCI 499)
 
 ### Course Administration
 * [Syllabus](/docs/Syllabus.pdf)
