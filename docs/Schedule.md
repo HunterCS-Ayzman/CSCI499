@@ -17,11 +17,11 @@ Some possible lecture topics could cover:
 
 |Dates|Activities/Deadlines/Notes|
 |:---|---|
-|January 28th|Course Introduction; “How Might We…” Generation Exercise|
-|January 30th|Idea Generation Exercise with Whole Class|
-|February 4th|Idea Generation Exercise w/ Team; _TEAMS DRAFTED_|
+|January 28th|Course Introduction; Inspiration Exercises|
+|January 30th|Ideation Exercises (w/ Whole Class)|
+|February 4th|Ideation Exercises (w/ Team); _TEAMS DRAFTED_|
 |February 6th|**CLASS CANCELLED**; _TEAMS DECIDED_|
-|February 11th|Ethics Discussion; Open Discussion|
+|February 11th|Ethics Exercises; Open Discussion|
 |February 13th|Pitch Presentations|
 |February 18th|**NO CLASS**|
 |February 20th|Requirements Document Deadline|
