@@ -34,3 +34,7 @@ Here are some example HMWs posed for the Cornell Tech Product Studio:
 * How might we use wearables and/or sensors to enhance a design researcher’s ability to draw more valuable insights while in the field? (frog)
 * How might we increase consumers’ understanding of how to take advantage of Smart Home tech? (Samsung)
 * How might we help people write more clearly, effectively, and grammatically? (Grammarly)
+
+### Wild Cards
+
+One point of inspiration that I like is encouraging people to take two separate themes and see what interesting HMWs or ideas you can generate from that. For instance, what cool stuff can you come up with if you combine "healthcare" and "music," or "transportation" and "compassion?"
