@@ -2,11 +2,13 @@
 
 ### Theme Generation
 
-First, we're going to do some solo inspiration for 15 minutes. There will be (up to) three questions to get our juices flowing:
+First, we're going to do some solo inspiration for 15 minutes. There will be three questions to get our juices flowing. Here are the resulting word clouds from the 1/28/19 class:
 
-1. What matters to you?
-2. What can be made more efficient?
-3. What does this world lack?
+![What matters to you?](/images/inspiration-matters.png)
+
+![What can be made more efficient?](/images/inspiration-efficient.png)
+
+![What does this world lack?](/images/inspiration-lack.png)
 
 Try to come up with single words. At this stage, avoid phrases like "reducing homelessness in NYC" where simply "homelessness" will suffice. We're generating themes for now. 
 
