@@ -37,4 +37,4 @@ Here are some example HMWs posed for the Cornell Tech Product Studio:
 
 ### Wild Cards
 
-One point of inspiration that I like is encouraging people to take two separate themes and see what interesting HMWs or ideas you can generate from that. For instance, what cool stuff can you come up with if you combine "healthcare" and "music," or "transportation" and "compassion?"
+One inspiration mechanism I like is combining two or three disparate themes and seeing what interesting HMWs/ideas can be generated from them. For instance, what cool stuff can you come up with if you combine "healthcare" and "music," or "transportation" and "compassion?"
