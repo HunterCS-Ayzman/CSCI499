@@ -59,5 +59,4 @@ Here are some of the (_slightly edited, somewhat grouped_) "How might we..." pro
 
 * How might we help teenagers reduce the time spent on games?
 
-
 [Download all raw **HMWs** data.](/classes/1.28.19/hmws.xlsx)
