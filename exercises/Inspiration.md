@@ -1,6 +1,6 @@
 ## Inspiration
 
-Check out some of the interesting results from [our Inspiration class on 1/28/19.](/classes/1.28.19/README.md).
+Check out some of the interesting results from [our Inspiration class on 1/28/19](/classes/1.28.19/README.md).
 
 ### Theme Generation
 
