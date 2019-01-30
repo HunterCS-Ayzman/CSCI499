@@ -8,7 +8,7 @@ In this class, you will go through several rounds of generating ideas in a group
 Choose three HMWs to focus on as a group. One method of choosing is voting for all of the ones you like. The two strongest liked HMWs win. In event of tie, vote again, but only once, on the tied HMWs. In the event of another tie, choose any tie breaking metric you wish (coin flip, choose a hand behind your back, etc.). Take five minutes for this.
 
 #### Mass Idea Generation Stage
-Come up with as many ideas as possible for either of the HMWs. At this stage, quantity is what matters. Ignore technical feasibility and business viability.
+Come up with as many ideas as possible for any of the HMWs. At this stage, quantity is what matters. Ignore technical feasibility and business viability.
 
 Create post-it notes representing your ideas. On the front, put a short name or tagline and an optional picture. On the back, optionally, put a short description and the related HMW. Take ten minutes for this.
 
