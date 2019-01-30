@@ -30,4 +30,4 @@ Here are some of the top "How might we..." prompts (_slightly edited_) that we s
 * How might we share personal property that's being left unused at home?
 * How might we reduce the MTA fares?
 
-[Download raw **HMW** data.](/classes/1.28.19/hmws.xlsx)
+[Download raw **HMWs** data.](/classes/1.28.19/hmws.xlsx)
