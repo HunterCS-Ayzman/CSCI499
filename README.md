@@ -24,10 +24,10 @@
 
 ### Teams
 
-* Education Team (**Final Name TBD**): Qiuqun Wang, Maria Mahin, Matthew Binshtok, Saif Shakur, Aisha Khoja
-* Finance Team (**Final Name TBD**): Cristopher Jimenez, David Belinsky, Jessica Ng, Riyadh Rahman, Eunice Hew
-* Food Team (**Final Name TBD**): Daniel Segarra, Deion Bacchus, Savannah Nester, Victoria Simatupang, Wei Lian
-* Games Team (**Final Name TBD**): Ismail Kheir, John Genere, Maria Volpe, Brian Campbell, Nicky Cen
-* Technology Team (**Final Name TBD**): Jia Jiang, Anupam Das, Iftikhar Khan, Marjan Ansar, Miguel Acero
+* **Education Team** (final name TBD): Qiuqun Wang, Maria Mahin, Matthew Binshtok, Saif Shakur, Aisha Khoja
+* **Finance Team** (final name TBD): Cristopher Jimenez, David Belinsky, Jessica Ng, Riyadh Rahman, Eunice Hew
+* **Food Team** (final name TBD): Daniel Segarra, Deion Bacchus, Savannah Nester, Victoria Simatupang, Wei Lian
+* **Games Team** (final name TBD): Ismail Kheir, John Genere, Maria Volpe, Brian Campbell, Nicky Cen
+* **Technology Team** (final name TBD): Jia Jiang, Anupam Das, Iftikhar Khan, Marjan Ansar, Miguel Acero
 
-_Teams were formed based on [common appreciation around specific themes.](/classes/1.30.19/theme-rankings-groupings.xlsx)_
+_Teams were formed based on [common appreciation around specific themes](/classes/1.30.19/theme-rankings-groupings.xlsx)._
