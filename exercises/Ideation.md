@@ -1,6 +1,6 @@
 ## Ideation
 
-In this class, you will go through several rounds of generating ideas in a group setting.
+In this class, you will go through several rounds of generating ideas in a group setting. Check out some of the interesting ideas created in [our Ideation class on 1/30/19](/classes/1.30.19/ideas-generated.xlsx).
 
 ### Mass Idea Generation Round
 
