@@ -24,9 +24,9 @@
 
 ### Teams
 
-* **Education Team** (final name TBD): Qiuqun Wang, Maria Mahin, Matthew Binshtok, Saif Shakur, Aisha Khoja
+* **Education Team** (final name TBD): ~~Qiuqun Wang~~, Maria Mahin, Matthew Binshtok, Saif Shakur, Aisha Khoja
 * **Finance Team** (final name TBD): Cristopher Jimenez, David Belinsky, Jessica Ng, Riyadh Rahman, Eunice Hew
-* **Food Team** (final name TBD): Daniel Segarra, Deion Bacchus, Savannah Nester, Victoria Simatupang, Wei Lian
+* **Food Team** (final name TBD): Daniel Segarra, ~~Deion Bacchus~~, Savannah Nester, Victoria Simatupang, Wei Lian
 * **Games Team** (final name TBD): Ismail Kheir, John Genere, Maria Volpe, Brian Campbell, Nicky Cen
 * **Technology Team** (final name TBD): Jia Jiang, Anupam Das, Iftikhar Khan, Marjan Ansar, Miguel Acero
 
