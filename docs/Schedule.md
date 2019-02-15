@@ -24,7 +24,7 @@ Some possible lecture topics could cover:
 |February 11th|Ethics Exercises; Open Discussion|
 |February 13th|Pitch Presentations|
 |February 18th|**NO CLASS**|
-|February 20th|Requirements Document Deadline|
+|February 20th|Requirements Document Deadline (_11:59pm_)|
 |February 25th||
 |February 27th||
 |March 4th||
@@ -41,11 +41,11 @@ Some possible lecture topics could cover:
 |April 10th|Progress Presentation #2|
 |April 15th|Progress Presentation #2 Continued|
 |April 17th||
-|April 24th|**NO CLASS**|
 |April 22nd|**NO CLASS**|
+|April 24th|**NO CLASS**|
 |April 29th|**CLASS CANCELLED**|
 |May 1st||
 |May 6th||
-|May 8th||
-|May 13th|Final Presentations; Final Writeup Deadline; Final Project Deadline|
-|May 15th|Final Presentations Continued|
+|May 8th|Final Presentations|
+|May 13th|Final Presentations Continued|
+|May 15th|Final Writeup Deadline; Final Project Deadline (_11:59pm_)|
