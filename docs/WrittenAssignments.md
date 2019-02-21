@@ -18,7 +18,7 @@ Imagine that this is the final README for your project. What information would y
 
 ### Grading
 |Component|Percentage|
-|:---|:---|:---:|
+|:---|:---:|
 |Content|60%|
 |Organization|30%|
 |Professionalism|10%|
