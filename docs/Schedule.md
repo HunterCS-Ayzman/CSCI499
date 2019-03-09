@@ -45,7 +45,7 @@ Some possible lecture topics could cover:
 |April 24th|**NO CLASS**|
 |April 29th|**CLASS CANCELLED**|
 |May 1st||
-|May 6th||
-|May 8th|Final Presentations|
+|May 6th|Final Presentations|
+|May 8th|**CLASS CANCELLED**|
 |May 13th|Final Presentations Continued|
 |May 15th|Final Writeup Deadline; Final Project Deadline (_11:59pm_)|
