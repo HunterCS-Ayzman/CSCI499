@@ -37,10 +37,10 @@ Some possible lecture topics could cover:
 |March 27th||
 |April 1st||
 |April 3rd||
-|April 8th||
+|April 8th|Data Scientists Panel|
 |April 10th|Progress Presentation #2|
 |April 15th|Progress Presentation #2 Continued|
-|April 17th||
+|April 17th|Software Engineers Panel|
 |April 22nd|**NO CLASS**|
 |April 24th|**NO CLASS**|
 |April 29th|**CLASS CANCELLED**|
